@@ -7,17 +7,12 @@ macOS 原生 SVN GUI 客户端，基于 Python Tkinter + PyInstaller 打包。
 ```
 macOS终端脚本/
 ├── svntool_gui.py          # 主程序源码（单文件，~780 行）
-├── dist/                   # 打包产物
-│   ├── SVN工具箱           # 命令行可直接运行
-│   └── SVN工具箱.app/      # macOS 应用包（双击运行）
 ├── icon3-3.icns            # App 图标（icns 格式）
 ├── icon3-3.png             # App 图标（png 格式）
 ├── 使用说明.md              # 中文使用手册
 ├── UserManual.md           # 英文使用手册
 ├── README.md               # 本文件（项目首页）
-├── WORKSPACE.md            # 工作空间约定
-├── .workbuddy/             # WorkBuddy 数据（不用动）
-└── .obsidian/              # Obsidian 配置（不用动）
+└── WORKSPACE.md            # 工作空间约定
 ```
 
 ## 快速开始
