@@ -17,10 +17,7 @@
 | 文件 | 角色 | 说明 |
 |------|------|------|
 | `README.md` | 项目首页 | 目录结构、快速开始、开发指南 |
-| `WORKSPACE.md` | 本文件 | 工作空间说明，供其他 AI agent 读取 |
 | `svntool_gui.py` | 主程序源码 | 单文件 Python Tkinter 应用（~780 行） |
-| `dist/SVN工具箱.app` | 最终产物 | PyInstaller --onefile 打包的 macOS 独立应用 |
-| `dist/SVN工具箱` | 可执行文件 | 命令行可直接运行的无后缀版本 |
 | `icon3-3.icns` | 图标 | App 图标（ICNS 格式） |
 | `icon3-3.png` | 图标源 | 图标原始 PNG 文件 |
 | `使用说明.md` | 中文手册 | 面向用户的使用文档 |
